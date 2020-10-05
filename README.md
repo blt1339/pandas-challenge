@@ -11,12 +11,12 @@
     <b><h1><strong>Observable Trends</strong></h1></b>
 </div>
 
-The players that purchase in game items tend to be male.  The numbers are that **84.03%** of players purchasing in game items are male.  This is contrasted with only **14.06%** players that purchase in game items are female.  Any future marketing should target males.
+The players that purchase in game items tend to be male.  There are  **84.03%** of players purchasing in game items that are male.  This is in contrast with only **14.06%** in game purchasers being female.  Any future marketing should target males.
 
 
-The age range of **20-24** outspent all other groups with 321 purchases spending a total of 973.82 dollars.  The next age range is **25-29** which purchased 155 for a total of 467.99 dollars.  And the thrid is **15-19** year olds who bought 115 items for 349.82.   These three age ranges combined account for 591 out of 780 purchase.  Since this represents 75.8% of purchases, it would make sense for any future marketing to target **15-29** years old.
+The age range of **20-24** outspent all other groups with 321 purchases spending a total of 973.82 dollars.  The next age range is **25-29** which purchased 155 for a total of 467.99 dollars.  And the thrid is **15-19** year olds who bought 115 items for 349.82.   These three age ranges combined account for 591 out of 780 purchase and 1791.63 of 2379.77 dollars spent.  Since this represents 75.8% of purchases and 74.7% of the dollars spent, it would make sense for any future marketing to target **15-29** years old.
 
-**Final Critic**, **OathBreaker, Last Hope of the Breaking Storm**, and **Fiery Glass Crusider** are all in the top 5 of popular and profitable items.   It would make sense to target these three product in any future marketing.
+**Final Critic**, **OathBreaker, Last Hope of the Breaking Storm**, and **Fiery Glass Crusider** are all in the top 5 of popular and profitable items.   It would make sense to target these three products in any future marketing.
 
 Very few of the users make more than one in game purchase. Future marketing could target those that have made one purchase to see if they could be enticed to make additional purchases.
 
