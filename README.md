@@ -2,7 +2,7 @@
 
 
 # Heroes of Pymoli
-![Fantasy](../pandas-challenge/HeroesofPymoli/Images/Fantasy.png)
+![Fantasy](HeroesofPymoli/Images/Fantasy.png)
 
 # Background
 [Project Details](project_instructions_readme.md)
