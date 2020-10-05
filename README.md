@@ -2,7 +2,7 @@
 
 
 # Heroes of Pymoli
-![Fantasy](HeroesofPymoli/Images/Fantasy.png)
+![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
 
 # Background
 [Project Details](project_instructions_readme.md)
